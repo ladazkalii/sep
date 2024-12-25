@@ -26,7 +26,7 @@ print(driver.page_source)
 
 time.sleep(1)
 
-driver.get("https://sepolia-faucet.pk910.de/#/mine/88894cc6-cba7-44cc-b137-84b595208605")
+driver.get("https://sepolia-faucet.pk910.de/#/mine/d255bc19-d483-4d58-8a97-f755e986e4b0")
 time.sleep(50)
 
 div_element = driver.find_element(By.CLASS_NAME, "col-3")
