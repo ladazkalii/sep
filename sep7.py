@@ -21,13 +21,8 @@ chrome_options.add_argument('--disable-dev-shm-usage')
 
 driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
 
-driver.get('https://httpbin.org/ip')
-print(driver.page_source)
-
-time.sleep(1)
-
-driver.get("https://sepolia-faucet.pk910.de/#/mine/0cb13747-be8b-479b-8db4-c6486ed1898b")
-time.sleep(50)
+driver.get("https://sepolia-faucet.pk910.de/#/mine/f4337e71-667e-4ff0-a7e5-6e2a2ff08b70")
+time.sleep(500)
 
 div_element = driver.find_element(By.CLASS_NAME, "col-3")
 content_text = div_element.text
