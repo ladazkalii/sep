@@ -18,6 +18,8 @@ chrome_options.add_argument("--window-size=1920, 1200")
 # Hapus '--headless' untuk melihat apakah ekstensi berjalan dengan benar dalam mode normal
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-dev-shm-usage')
+chrome_options.add_argument('--disable-background-networking')
+chrome_options.add_argument('--disable-extensions')
 
 driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
 
