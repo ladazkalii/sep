@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'socks5://proxy.hideiqxshlgvjk.com:5050:sadam123-type-residential-location-US:sadam123',
-        'https': 'socks5://proxy.hideiqxshlgvjk.com:5050:sadam123-type-residential-location-US:sadam123',
+        'http': 'socks5://sadam123-type-residential-location-US:sadam123@proxy.hideiqxshlgvjk.com:5050',
+        'https': 'socks5://sadam123-type-residential-location-US:sadam123@proxy.hideiqxshlgvjk.com:5050',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
