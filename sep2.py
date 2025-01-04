@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'socks5://core-residential.evomi.com:1002:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-JSJVT7RG3_lifetime-100',
-        'https': 'socks5://core-residential.evomi.com:1002:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-JSJVT7RG3_lifetime-100',
+        'http': 'http://core-residential.evomi-proxy.com:1001:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-DU0TEZ791_lifetime-100',
+        'https': 'https://core-residential.evomi-proxy.com:1001:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-DU0TEZ791_lifetime-100',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
