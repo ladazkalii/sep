@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://core-residential.evomi-proxy.com:1001:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-DU0TEZ791_lifetime-100',
-        'https': 'https://core-residential.evomi-proxy.com:1001:jungiyamer6:cDwQmY4OBDP66VRFB7mI_session-DU0TEZ791_lifetime-100',
+        'http': 'http://geonode_YHzSGmL3UA:ac23c92b-63ae-4e8c-b704-ff0cb4486279@premium-residential.geonode.com:9002',
+        'https': 'https://geonode_YHzSGmL3UA:ac23c92b-63ae-4e8c-b704-ff0cb4486279@premium-residential.geonode.com:9002',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
