@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://13d825050949bf81c313__cr.bb:f43e92adab3d6e80@gw.dataimpulse.com:10008',
-        'https': 'https://13d825050949bf81c313__cr.bb:f43e92adab3d6e80@gw.dataimpulse.com:10008',
+        'http': 'http://13d825050949bf81c313__cr.bb:f43e92adab3d6e80@gw.dataimpulse.com:10108',
+        'https': 'https://13d825050949bf81c313__cr.bb:f43e92adab3d6e80@gw.dataimpulse.com:10108',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
