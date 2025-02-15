@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://38ccb09ae81123f8e47b__cr.mx:071a482278d0d146@gw.dataimpulse.com:10114',
-        'https': 'https://38ccb09ae81123f8e47b__cr.mx:071a482278d0d146@gw.dataimpulse.com:10114',
+        'http': 'http://25372128-zone-custom-region-JM-sessid-yP1s9LOl-sessTime-120:gvgsm5NI@aus.360s5.com:3600',
+        'https': 'https://25372128-zone-custom-region-JM-sessid-yP1s9LOl-sessTime-120:gvgsm5NI@aus.360s5.com:3600',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
