@@ -57,7 +57,7 @@ def main():
             # Jika terjadi kesalahan, tutup browser dan buka kembali
             driver.quit()
             driver = setup_driver()
-            driver.get("https://sepolia-faucet.pk910.de/#/mine/aadb9164-d687-4aef-9e5e-ef0cb7cd1ccb")
+            driver.get("https://sepolia-faucet.pk910.de/#/mine/917dee7b-f12a-4706-8fdb-6a5a5af17d57")
 
 if __name__ == "__main__":
     main()
