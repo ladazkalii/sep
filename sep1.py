@@ -12,7 +12,8 @@ options = {
 }
 
 chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument("--user-data-dir=/tmp/selenium_profile")
+chrome_options.add_argument("--user-data-dir=/tmp/selenium_profile_1")  # Unique directory
+chrome_options.add_argument("--profile-directory=Profile 1")  # Unique profile
 chrome_options.add_argument("--verbose")
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument("--window-size=1920, 1200")
