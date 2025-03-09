@@ -16,7 +16,6 @@ chrome_options.add_argument("--verbose")
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--headless')
 
-
 driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
 
 driver.get("https://sepolia-faucet.pk910.de/#/mine/85932d3a-90ed-42a6-b80d-994f7186de56")
