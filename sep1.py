@@ -28,6 +28,7 @@ chrome_options.add_argument("--metrics-recording-only")  # Nonaktifkan pengumpul
 chrome_options.add_argument("--safebrowsing-disable-auto-update")  # Nonaktifkan pembaruan otomatis Safe Browsing
 chrome_options.add_argument("--disable-component-update")  # Nonaktifkan pembaruan komponen
 chrome_options.add_argument("--disable-domain-reliability")  # Nonaktifkan keandalan domain
+chrome_options.add_argument("--user-data-dir=/tmp/selenium_profile")
 
 driver = webdriver.Chrome(seleniumwire_options=options, options=chrome_options)
 
