@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://crewsa-type-residential-session-z7qac1s64qst-sessTimeSecs-7200:aricrew123@proxy.hideiqxshlgvjk.com:5050',
-        'https': 'https://crewsa-type-residential-session-z7qac1s64qst-sessTimeSecs-7200:aricrew123@proxy.hideiqxshlgvjk.com:5050',
+        'http': 'http://e697011ce4c77b244d4d__cr.jm:10c89834dc62100a@gw.dataimpulse.com:10002',
+        'https': 'https://e697011ce4c77b244d4d__cr.jm:10c89834dc62100a@gw.dataimpulse.com:10002',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
