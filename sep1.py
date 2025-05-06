@@ -5,8 +5,8 @@ import time
 
 options = {
     'proxy': {
-        'http': 'http://8c5906b99fbd1c0bcd0f916d545c565adef1b53038ada30b41845627f276a26ae1e851cc35fe867fce315eeb38f128feab7de56bf749bc8adcd2de8f2c36a875:hy6gsyfv9gff@proxy.toolip.io:31111',
-        'https': 'https://8c5906b99fbd1c0bcd0f916d545c565adef1b53038ada30b41845627f276a26ae1e851cc35fe867fce315eeb38f128feab7de56bf749bc8adcd2de8f2c36a875:hy6gsyfv9gff@proxy.toolip.io:31111',
+        'http': 'http://proxy.hideiqxshlgvjk.com:5050:crewsa-type-residential-session-g5z4jl8uzb4m-sessTimeSecs-86400:aricrew123',
+        'https': 'https://proxy.hideiqxshlgvjk.com:5050:crewsa-type-residential-session-g5z4jl8uzb4m-sessTimeSecs-86400:aricrew123',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
